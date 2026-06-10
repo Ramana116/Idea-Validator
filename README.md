@@ -2,7 +2,7 @@
 
 > Your virtual startup consultant. Validate any startup idea in 15 minutes.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Stars](https://img.shields.io/github/stars/yourusername/startup-validator)](https://github.com/yourusername/startup-validator/stargazers)
 [![Forks](https://img.shields.io/github/forks/yourusername/startup-validator)](https://github.com/yourusername/startup-validator/network/members)
 [![Issues](https://img.shields.io/github/issues/yourusername/startup-validator)](https://github.com/yourusername/startup-validator/issues)
