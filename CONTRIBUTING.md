@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤝 Contributing to AI Startup Idea Validator
 
 Thank you for your interest in contributing! This document provides guidelines and instructions for contributing to the project.
@@ -444,3 +445,6 @@ Together, we're building the best startup validation tool for entrepreneurs worl
 [Back to README](README.md)
 
 </div>
+=======
+
+>>>>>>> 654b29840b9dc7e6e4f11c009ed9864a1a09a2ae

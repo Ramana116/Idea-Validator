@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤝 Contributor Covenant Code of Conduct
 
 ## Our Pledge
@@ -132,3 +133,6 @@ https://www.contributor-covenant.org/translations.
 
 **Last Updated:** January 2026  
 **Version:** 2.0
+=======
+
+>>>>>>> 654b29840b9dc7e6e4f11c009ed9864a1a09a2ae

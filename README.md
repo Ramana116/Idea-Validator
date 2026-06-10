@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 AI Startup Idea Validator
 
 > **Your virtual startup consultant. Validate any startup idea in 15 minutes.**
@@ -456,3 +457,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 [⚡ Try It Free](https://startupvalidator.ai) · [📚 Documentation](docs/README.md) · [💬 Discord](https://discord.gg/yourinvite)
 
 </div>
+=======
+
+>>>>>>> 654b29840b9dc7e6e4f11c009ed9864a1a09a2ae
